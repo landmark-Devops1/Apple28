@@ -8,3 +8,4 @@ deploy to stating
 deploy to staging env
 echo good job.
 Testes and accepted
+JBoss
